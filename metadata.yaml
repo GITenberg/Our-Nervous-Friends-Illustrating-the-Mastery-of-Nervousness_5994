@@ -1,5 +1,5 @@
 _repo: Our-Nervous-Friends-Illustrating-the-Mastery-of-Nervousness_5994
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Nervous system -- Hygiene'
 - !lcc 'RC'
+- GITenberg
 title: Our Nervous Friends — Illustrating the Mastery of Nervousness
 url: http://www.gutenberg.org/ebooks/5994
